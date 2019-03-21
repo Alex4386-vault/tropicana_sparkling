@@ -1,5 +1,9 @@
 # tropicana_sparkling
+![image](https://user-images.githubusercontent.com/27724108/54730110-5f8c0680-4bca-11e9-9ab0-b0a05ef40f45.png)  
+▲ Picture took from Yeouido HighSchool at year 2017.  
+  
 사과 톡톡~ 톡 트로피카나~
+
 ## Korean
 이 트로피카나에 미친 사람이 만든 프로그램은 000.exe 의 포크 버전이며,
 000.exe와 유사한 성격을 가지고 있습니다.

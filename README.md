@@ -1,6 +1,6 @@
 # tropicana_sparkling
 ![image](https://user-images.githubusercontent.com/27724108/54730110-5f8c0680-4bca-11e9-9ab0-b0a05ef40f45.png)  
-▲ Picture took from [Yeouido HighSchool](https://ko.wikipedia.org/wiki/%EC%97%AC%EC%9D%98%EB%8F%84%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90) at year 2017.  
+▲ Picture took from [Yeouido HighSchool](https://ko.wikipedia.org/wiki/%EC%97%AC%EC%9D%98%EB%8F%84%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90) at year 2017. ~~Ms. gilsuk must be mad at me. lol~~  
   
 사과 톡톡~ 톡 트로피카나~
 
